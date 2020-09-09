@@ -1,6 +1,13 @@
 <div align="center"><img height="80" title="C Programming" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/c-programming.svg">
-	<h1>C Programlama [TR]</h1>	   
+	<h1>C Programlama [TR]</h1>	
+	
+<div align="center">
+   <a href="https://github.com/iamruveyda/C-Programming-TR/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/iamruveyda/C-Programming-TR?color=%2334495E%20&style=plastic"></a>
+   <a href=""><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/C-Programming-TR?color=%23BB8FCE%20"></a>
 </div>
+</div>
+
+
 
 ######  [(00) Intro (Giriş)](https://github.com/iamruveyda/C-Programming-TR/tree/master/(00)INTRO)
 
@@ -48,6 +55,7 @@
 
 <hr>
 
-<p align="center">
+<p align="center">   
    <a href="https://twitter.com/iamruveyda"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamruveyda?label=Follow&style=social"></a>
    <a href="https://github.com/iamruveyda"><img alt="Github Follow" src="https://img.shields.io/github/followers/iamruveyda?label=Follow&style=social"></a>
+</p>  
