@@ -3,7 +3,7 @@
 	
 <div align="center">
    <a href="https://github.com/iamruveyda/C-Programming-TR/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/iamruveyda/C-Programming-TR?color=%2334495E%20&style=plastic"></a>
-   <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/C-Programming-TR?color=%23BB8FCE%20"></a>
+   <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/C-Programming-TR?color=%23BB8FCE%20&style=plastic"></a>
 </div>
 </div>
 
