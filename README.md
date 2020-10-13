@@ -55,17 +55,16 @@
 
 <hr>
 
-<p align="center">   
-   <a href="https://twitter.com/iamruveyda"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamruveyda?label=Follow&style=social"></a>
-   <a href="https://github.com/iamruveyda"><img alt="Github Follow" src="https://img.shields.io/github/followers/iamruveyda?label=Follow&style=social"></a>
-</p>  
-
-
-<hr>
-
 ### References / Useful Links
 
 - [W3 School](https://www.w3schools.in/c-tutorial/)
 - [Code Forwin](https://codeforwin.org/2017/08/introduction-c-programming.html)
 - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/index.htm)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-language/)
+
+<hr>
+
+<p align="center">   
+   <a href="https://twitter.com/iamruveyda"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/iamruveyda?label=Follow&style=social"></a>
+   <a href="https://github.com/iamruveyda"><img alt="Github Follow" src="https://img.shields.io/github/followers/iamruveyda?label=Follow&style=social"></a>
+</p>  
